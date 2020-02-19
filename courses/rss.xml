@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title/>
+    <description/>
+    <link/>
+    <pubDate>07 February, 2020</pubDate>
+    <item>
+      <title>How Websites Work</title>
+      <link>/courses/how-websites-work</link>
+      <description/>
+    </item>
+    <item>
+      <title>How Whatsapp Ticks Work</title>
+      <link>/courses/how-whatsapp-ticks-work</link>
+      <description/>
+    </item>
+    <item>
+      <title>What Is A Static Website</title>
+      <link>/courses/what-is-a-static-website</link>
+      <description/>
+    </item>
+  </channel>
+</rss>
