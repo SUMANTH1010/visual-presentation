@@ -1,5 +1,6 @@
 ### Visual Presentation
 
+![How WhatsApp ticks work](./assets/media/how-whatsapp-ticks-work.png)
 Fork this repository and try to experiment by changing the .JSON files in folder:   
 courses-data/how-whatsapp-ticks-work  
 
