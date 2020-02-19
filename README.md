@@ -1,8 +1,16 @@
 ### Visual Presentation
 
-Fork this repository and try to experiment by changing the .JSON files courses-data/how-whatsapp-ticks-work folder.
+Fork this repository and try to experiment by changing the .JSON files in folder:   
+courses-data/how-whatsapp-ticks-work  
 
-Try to change content.json and diagram.json file and see the differences.
+Try to change  
++ content.json and 
++ diagram.json files  
+and see the differences.
+
+---
+
+#### Run local webserver
 
 You can run a local web server to see changes locally on your machine.
 
@@ -10,9 +18,9 @@ Check this link [https://stackoverflow.com/a/8427954](https://stackoverflow.com/
 
 First [get npm](https://www.npmjs.com/get-npm) by [installing NodeJS](https://nodejs.org/en/).
 
+---
 
-So the steps after you fork the repository and clone it to your machine.
-
+So the steps after you fork the repository and clone it to your machine.  
 
 1. Install NodeJS from [here](https://nodejs.org/en/).
 
